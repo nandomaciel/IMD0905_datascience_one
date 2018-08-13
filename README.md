@@ -7,3 +7,8 @@
 	- Development platform
 	- Hello World
 	- Python Beginnner 
+- Lesson #03
+        - Dictionaries
+        - Functions
+        - Debugging errors
+
