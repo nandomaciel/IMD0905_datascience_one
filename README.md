@@ -11,4 +11,8 @@
         - Dictionaries
         - Functions
         - Debugging errors
+- Lesson #04
+        - Modules
+        - Iteractions
+        - List comprehensions
 
