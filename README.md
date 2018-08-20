@@ -8,13 +8,13 @@
 	- Hello World
 	- Python Beginnner 
 - Lesson #03
-        - Dictionaries
-        - Functions
-        - Debugging errors
+	- Dictionaries
+	- Functions
+	- Debugging errors
 - Lesson #04
-        - Modules
-        - Iteractions
-        - List comprehensions
+	- Modules
+	- Iteractions
+	- List comprehensions
 - Lesson #05
 	- String and data operations
 
