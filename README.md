@@ -15,4 +15,6 @@
         - Modules
         - Iteractions
         - List comprehensions
+- Lesson #05
+	- String and data operations
 
