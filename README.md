@@ -17,4 +17,13 @@
 	- List comprehensions
 - Lesson #05
 	- String and data operations
+- Lesson #06
+	- 7 day python challenge - Kaggle
+- Lesson #07
+	- Numpy Overview
+	- Understanding NumPy ndarrays
+	- Selecting and slicing
+	- Arithmetic operations
+	- Adding rows and columns
+	- Sorting
 
