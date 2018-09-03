@@ -26,10 +26,15 @@
 	- Arithmetic operations
 	- Adding rows and columns
 	- Sorting
-- Lesson $08
+- Lesson #08
 	- Reading CSV files with NumPy
 	- Boolean Arrays
 	- Boolean Index
 	- Assigning values
 	- Challenge
-
+- Lesson #09
+	- Introduction to Pandas
+	- Dataframe vs Series
+	- Selecting  items
+	- Assignments
+	- Boolean indexes
