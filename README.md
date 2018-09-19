@@ -52,3 +52,5 @@
 	- Extracting Values from the start/end of strings
 	- Correcting bad values
 	- Dropping missing values
+- Lesson #12
+	- Exam (20%)
