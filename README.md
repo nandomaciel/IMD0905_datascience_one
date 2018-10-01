@@ -54,3 +54,9 @@
 	- Dropping missing values
 - Lesson #12
 	- Exam (20%)
+- Lesson #13
+	- Storytelling from geographic data
+	- Case study: open flights
+	- Geographic coordinate system: problems
+	- Basemap toolkit
+
