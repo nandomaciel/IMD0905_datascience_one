@@ -59,4 +59,9 @@
 	- Case study: open flights
 	- Geographic coordinate system: problems
 	- Basemap toolkit
-
+- Lesson #14
+	- Folium
+	- Maps styles, markers, color and icon types
+	- Marker clusters
+	- Heatmap
+	- Popups
