@@ -65,3 +65,9 @@
 	- Marker clusters
 	- Heatmap
 	- Popups
+- Lesson #15
+	- Case study: IBGE
+	- Geojson
+	- Creating Choropleths maps
+
+
