@@ -69,5 +69,11 @@
 	- Case study: IBGE
 	- Geojson
 	- Creating Choropleths maps
+- Lesson #16
+	- Case study: NYC open data (education)
+	- Data cleaning walkthrough
+	- Combining data
+	- Groupby
+	- Merge (inner, outer, right, left)
 
 
