@@ -73,7 +73,8 @@
 	- Case study: NYC open data (education)
 	- Data cleaning walkthrough
 	- Combining data
+- Lesson #17
+	- Case study: NYC open data (education)
 	- Groupby
 	- Merge (inner, outer, right, left)
-
 
