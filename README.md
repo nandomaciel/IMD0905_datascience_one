@@ -78,3 +78,5 @@
 	- Groupby
 	- Merge (inner, outer, right, left)
 
+- Lesson #18
+	- Case Study - Jonh Snow Map
